@@ -1,0 +1,6 @@
+{
+  "name": "CERAX RESPONDE - Especialista Fiduciario & Legal RWA",
+  "description": "Plataforma fiduciaria y de cumplimiento RWA binacional (Paraguay Ley 7572 / Bolivia ASFI) con especialista de voz contextual Gemini para análisis de presentaciones PDF, contratos y gobernanza institucional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
